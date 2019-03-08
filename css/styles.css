@@ -1,0 +1,56 @@
+.main-princ {
+    width: 500px;
+    margin-top: 80px !important;
+    margin: 0 auto;
+    border: 1px solid gray;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+
+
+
+
+.headerTitle p  {
+    line-height: 2px;
+    margin-left: 20px;
+
+}
+
+.headerTitle .fa-ellipsis-v {
+    margin-top: -30px;
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+
+.fa-html5 {
+    float: left; /** importante el left **/
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -4px;
+}
+
+.imagen {
+    width: 498px;
+}
+
+.fa-heart, .fa-comment, .fa-papper-plane {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.fa-bookmark {
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.likes {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.body {
+    margin-left: 10px;
+}
